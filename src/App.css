@@ -24,15 +24,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.clock {
+  width: 300px;
+  height: 300px;
+  border-radius: 999px;
+  background-color: aliceblue;
+  border: 1px solid grey;
+  color: #000;
 }
